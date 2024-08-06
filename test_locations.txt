@@ -1,1 +1,4 @@
-create test_locations.txt file
+locations
+chennai
+michigan
+rochester
